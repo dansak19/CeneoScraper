@@ -13,14 +13,14 @@
 |---------|--------|--------|
 |opinion|opinion|div.js_product-review|
 |opinion ID|opinion_id|[data-entry-id]|
-|opinion’s author|author|span.verified-purchase|
-|author’s recommendation|recommend||
-|score expressed in number of stars|stars||
-|opinion’s content|content||
-|list of product advantages|pros||
-|list of product disadvantages|cons||
-|how many users think that opinion was helpful|up_votes||
-|how many users think that opinion was unhelpful|down_votes||
-|publishing date|published||
-|purchase date|purchased||
+|opinion’s author|author|span.user-post__author-name|
+|author’s recommendation|recommend|span.user-post__author-recomendation > em|
+|score expressed in number of stars|stars|span.user-post__score-count|
+|opinion’s content|content|div.user-post__text|
+|list of product advantages|pros|div.review-feature__title--positives ~ div.review-feature__item|
+|list of product disadvantages|cons|div.review-feature__title--negatives ~ div.review-feature__item|
+|how many users think that opinion was helpful|up_votes|button.vote-yes span|
+|how many users think that opinion was unhelpful|down_votes|button.vote-no span|
+|publishing date|published|time[datetime]:nth-of-type(1)|
+|purchase date|purchased|time[datetime]:nth-of-type(2)|
 
