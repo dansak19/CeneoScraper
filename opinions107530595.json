@@ -1,0 +1,80 @@
+[
+    {
+        "opinion_id": "18882123",
+        "author": "r...i",
+        "recommend": "Polecam",
+        "stars": "4,5/5",
+        "content": "Jest ok za te pieniądze to super szybko się nagrzewa tylko blacha w drzwiczkach mogła być grubsza ale jest ok",
+        "pros": [],
+        "cons": [],
+        "up_votes": "0",
+        "down_votes": "0",
+        "published": "2024-08-14 07:11:10",
+        "purchased": "2024-08-05 10:10:59"
+    },
+    {
+        "opinion_id": "19507333",
+        "author": "Małgorzata",
+        "recommend": "Polecam",
+        "stars": "5/5",
+        "content": "Super cena, wysoka jakość,  grill działa już 4 lata. Teraz kupiłam koledze z pracy.",
+        "pros": [],
+        "cons": [],
+        "up_votes": "0",
+        "down_votes": "0",
+        "published": "2025-03-12 19:06:37",
+        "purchased": "2025-02-20 07:34:18"
+    },
+    {
+        "opinion_id": "18642236",
+        "author": "i...t",
+        "recommend": "Polecam",
+        "stars": "5/5",
+        "content": "Produkt dobrej jakości. Jednak zapalarka na dodatkowym palniku nie podpala gazu.",
+        "pros": [],
+        "cons": [],
+        "up_votes": "0",
+        "down_votes": "0",
+        "published": "2024-05-13 08:35:58",
+        "purchased": "2024-04-18 20:22:48"
+    },
+    {
+        "opinion_id": "17340564",
+        "author": "g...u",
+        "recommend": "Polecam",
+        "stars": "5/5",
+        "content": "wydaje się OK - trochę dłubania ze złożeniem",
+        "pros": [],
+        "cons": [],
+        "up_votes": "0",
+        "down_votes": "0",
+        "published": "2023-03-30 11:51:39",
+        "purchased": "2023-03-27 09:40:24"
+    },
+    {
+        "opinion_id": "18714152",
+        "author": "h...a",
+        "recommend": "Polecam",
+        "stars": "5/5",
+        "content": "Grillowanie stało się przyjemnością",
+        "pros": [],
+        "cons": [],
+        "up_votes": "0",
+        "down_votes": "0",
+        "published": "2024-06-06 16:07:18",
+        "purchased": "2024-05-27 07:26:34"
+    },
+    {
+        "opinion_id": "15547497",
+        "author": "Użytkownik Ceneo",
+        "recommend": null,
+        "stars": "5/5",
+        "content": "5,0/5",
+        "pros": [],
+        "cons": [],
+        "up_votes": "0",
+        "down_votes": "0",
+        "published": "2019-07-03 00:00:00",
+        "purchased": null
+    }
+]
