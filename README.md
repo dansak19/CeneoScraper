@@ -24,3 +24,5 @@
 |publishing date|published|time[datetime]:nth-of-type(1)|
 |purchase date|purchased|time[datetime]:nth-of-type(2)|
 
+84514582
+107530595
